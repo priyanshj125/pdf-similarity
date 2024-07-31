@@ -38,8 +38,8 @@ The script will process the PDF files in the test directory and output the simil
 
 ### Contributing
 If you would like to contribute to this project, please follow these steps:
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature/YourFeature).
+1.Fork the repository.                                                                                                                               ,
+2.Create a new branch (git checkout -b feature/YourFeature).                                                                                         ,
 3.Make your changes.
 4.Commit your changes (git commit -m 'Add some YourFeature').
 5.Push to the branch (git push origin feature/YourFeature).
