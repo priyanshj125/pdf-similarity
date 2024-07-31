@@ -29,14 +29,14 @@ scikit-learn
 3. Run the following command:
     git clone https://github.com/priyanshj125/pdf-similarity.git
     cd pdf-similarity
-##Usage
+## Usage
 1.Run the main script:
 2.python main.py
 
 
 The script will process the PDF files in the test directory and output the similarity results.
 
-###Contributing
+### Contributing
 If you would like to contribute to this project, please follow these steps:
 1.Fork the repository.
 2.Create a new branch (git checkout -b feature/YourFeature).
