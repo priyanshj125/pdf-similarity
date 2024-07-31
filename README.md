@@ -28,7 +28,7 @@ scikit-learn
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command:
     git clone https://github.com/priyanshj125/pdf-similarity.git
-   cd your-repository
+    cd pdf-similarity
 ##Usage
 Run the main script:
 python main.py
