@@ -30,8 +30,8 @@ scikit-learn
     git clone https://github.com/priyanshj125/pdf-similarity.git
     cd pdf-similarity
 ##Usage
-Run the main script:
-python main.py
+1.Run the main script:
+2.python main.py
 
 
 The script will process the PDF files in the test directory and output the similarity results.
@@ -40,13 +40,13 @@ The script will process the PDF files in the test directory and output the simil
 
 If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes.
-Commit your changes (git commit -m 'Add some YourFeature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+1.Fork the repository.
+2.Create a new branch (git checkout -b feature/YourFeature).
+3.Make your changes.
+4.Commit your changes (git commit -m 'Add some YourFeature').
+5.Push to the branch (git push origin feature/YourFeature).
+6.Open a pull request.
 
 ##Contact
-priyansh jain -priyanshjain8491@gmail.com
-Project Link:[https://github.com/priyanshj125/pdf-similarity.git]
+1.priyansh jain -priyanshjain8491@gmail.com
+2.Project Link:[https://github.com/priyanshj125/pdf-similarity.git]
